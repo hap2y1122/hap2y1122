@@ -42,9 +42,9 @@ Enhancing my skills as a Full Stack Developer and Android Developer. I am a quic
 
 # Let's get connected
 <p align="middle">
-    <a href="https://www.linkedin.com/in/swaraj--kumar/" target="_blank"> <img src="./Pics/linkedin.png" width="40" height="40"></a>
-    <a href="mailto:b190040@nitsikkim.ac.in" target="_blank"> <img src="./Pics/mail.png" width="40" height="40"></a>
-    <a href="https://twitter.com/SwarajKumarCha3" target="_blank"> <img src="./Pics/twitter.png" width="40" height="40"></a>
-    <a href="https://www.instagram.com/swaraj1729/" target="_blank"> <img src="./Pics/instagram.png" width="40" height="40"></a>
-    <a href="https://www.facebook.com/swaraj4715/" target="_blank"> <img src="./Pics/facebook.png" width="40" height="40"></a>
+    <a href="https://www.linkedin.com/in/swaraj--kumar/"> <img src="./Pics/linkedin.png" width="40" height="40"></a>
+    <a href="mailto:b190040@nitsikkim.ac.in"> <img src="./Pics/mail.png" width="40" height="40"></a>
+    <a href="https://twitter.com/SwarajKumarCha3"> <img src="./Pics/twitter.png" width="40" height="40"></a>
+    <a href="https://www.instagram.com/swaraj1729/"> <img src="./Pics/instagram.png" width="40" height="40"></a>
+    <a href="https://www.facebook.com/swaraj4715/"> <img src="./Pics/facebook.png" width="40" height="40"></a>
 </p>
