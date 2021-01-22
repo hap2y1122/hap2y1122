@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there This is Swaraj Kumar Chaudhary :man_student:
 
-<!--
-**hap2y1122/hap2y1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    I'm a Web and App developer.
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My Skills
+
+## Languages
+
+<img src="./Pics/python.png" width="50" height="50"> 
+<img src="./Pics/java.png" width="50" height="50"> 
+<img src="./Pics/c.png" width="50" height="50"> 
+
+## WebDev Techs
+
+<img src="./Pics/html5.png" width="50" height="50"> 
+<img src="./Pics/css3.png" width="50" height="50"> 
+<img src="./Pics/bootstrap.png" width="50" height="50"> 
+<img src="./Pics/javascript.png" width="50" height="50"> 
+<img src="./Pics/php.png" width="50" height="50"> 
+<img src="./Pics/nodejs.png" width="50" height="50">  
+<img src="./Pics/sql.png" width="50" height="50">  
+
+
+## AppDev Techs
+<img src="./Pics/xml.png" width="50" height="50">
+<img src="./Pics/Xmljava.png" width="50" height="50">
+
+<hr>
