@@ -1,6 +1,6 @@
 # Hi there This is Swaraj Kumar Chaudhary :man_student:
 
-    I'm a Web and App developer.
+Enhancing my skills as a Full Stack Developer and Android Developer. I am a quick learner and enthusiast techy.
 
 <hr>
 
@@ -38,8 +38,10 @@
 # My GitHub Stats
 [![Swaraj's github stats](https://github-readme-stats.vercel.app/api?username=hap2y1122)](https://github.com/hap2y1122/github-readme-stats)
 
+<hr>
+
 # Let's get connected
-<p align="left">
+<p align="middle">
     <a href="https://www.linkedin.com/in/swaraj--kumar/" target="_blank"> <img src="./Pics/linkedin.png" width="40" height="40"></a>
     <a href="mailto:b190040@nitsikkim.ac.in" target="_blank"> <img src="./Pics/mail.png" width="40" height="40"></a>
     <a href="https://twitter.com/SwarajKumarCha3" target="_blank"> <img src="./Pics/twitter.png" width="40" height="40"></a>
