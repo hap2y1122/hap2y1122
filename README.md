@@ -39,7 +39,10 @@
 [![Swaraj's github stats](https://github-readme-stats.vercel.app/api?username=hap2y1122)](https://github.com/hap2y1122/github-readme-stats)
 
 # Let's get connected
-<p align="middle">
+<p align="left">
     <a href="https://www.linkedin.com/in/swaraj--kumar/"><img src="./Pics/linkedin.png" width="40" height="40"></a>
     <a href="mailto:b190040@nitsikkim.ac.in"><img src="./Pics/mail.png" width="40" height="40"></a>
+    <a href="https://twitter.com/SwarajKumarCha3"><img src="./Pics/twitter.png" width="40" height="40"></a>
+    <a href="https://www.instagram.com/swaraj1729/"><img src="./Pics/instagram.png" width="40" height="40"></a>
+    <a href="https://www.facebook.com/swaraj4715/"><img src="./Pics/facebook.png" width="40" height="40"></a>
 </p>
