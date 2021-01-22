@@ -8,23 +8,38 @@
 
 ## Languages
 
-<img src="./Pics/python.png" width="50" height="50"> 
-<img src="./Pics/java.png" width="50" height="50"> 
-<img src="./Pics/c.png" width="50" height="50"> 
+<p align="middle">
+    <img src="./Pics/python.png" width="50" height="50"> 
+    <img src="./Pics/java.png" width="50" height="50"> 
+    <img src="./Pics/c.png" width="50" height="50"> 
+</p>
 
 ## WebDev Techs
 
-<img src="./Pics/html5.png" width="50" height="50"> 
-<img src="./Pics/css3.png" width="50" height="50"> 
-<img src="./Pics/bootstrap.png" width="50" height="50"> 
-<img src="./Pics/javascript.png" width="50" height="50"> 
-<img src="./Pics/php.png" width="50" height="50"> 
-<img src="./Pics/nodejs.png" width="50" height="50">  
-<img src="./Pics/sql.png" width="50" height="50">  
+<p align="middle">
+    <img src="./Pics/html5.png" width="50" height="50"> 
+    <img src="./Pics/css3.png" width="50" height="50"> 
+    <img src="./Pics/bootstrap.png" width="50" height="50"> 
+    <img src="./Pics/javascript.png" width="50" height="50"> 
+    <img src="./Pics/php.png" width="50" height="50"> 
+    <img src="./Pics/nodejs.png" width="50" height="50">  
+    <img src="./Pics/sql.png" width="50" height="50">  
+</p>
 
 
 ## AppDev Techs
-<img src="./Pics/xml.png" width="50" height="50">
-<img src="./Pics/Xmljava.png" width="50" height="50">
+<p align="middle">
+    <img src="./Pics/xml.png" width="50" height="50">
+    <img src="./Pics/Xmljava.png" width="50" height="50">`
+</p>
 
 <hr>
+
+# My GitHub Stats
+[![Swaraj's github stats](https://github-readme-stats.vercel.app/api?username=hap2y1122)](https://github.com/hap2y1122/github-readme-stats)
+
+# Let's get connected
+<p align="middle">
+    <a href="https://www.linkedin.com/in/swaraj--kumar/"><img src="./Pics/linkedin.png" width="40" height="40"></a>
+    <a href="mailto:b190040@nitsikkim.ac.in"><img src="./Pics/mail.png" width="40" height="40"></a>
+</p>
