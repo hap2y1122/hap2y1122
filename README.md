@@ -2,8 +2,6 @@
 
 Enhancing my skills as a Full Stack Developer and Android Developer. I am a quick learner and enthusiast techy.
 
-<!-- ![Visitor Count](https://profile-counter.glitch.me/hap2y1122/count.svg) Counter Visitor Bagde -->
-![Visitor Count](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=hap2y1122&repo=hap2y1122&countColorcountColor&countColor=%237B1E7A)
 <hr>
 
 # My Skills
