@@ -23,6 +23,7 @@ Enhancing my skills as a Full Stack Developer and Android Developer. I am a quic
     <img src="./Pics/javascript.png" width="50" height="50"> 
     <img src="./Pics/php.png" width="50" height="50"> 
     <img src="./Pics/nodejs.png" width="50" height="50">  
+    <img src="./Pics/express.svg" width="50" height="50">  
     <img src="./Pics/sql.png" width="50" height="50">  
 </p>
 
