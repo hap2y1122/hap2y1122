@@ -1,6 +1,6 @@
 # Hi there This is Swaraj Kumar Chaudhary :man_student:
 
-Enhancing my skills as a Full Stack Developer and Android Developer. I am a quick learner and enthusiast techy.
+Enhancing my skills as a Full Stack Web and App Developer. I am a quick learner and enthusiast techy.
 
 <hr>
 
