@@ -1,21 +1,14 @@
-# Hi there This is Swaraj Kumar Chaudhary :man_student:
-
-Enhancing my skills as a Full Stack Web and App Developer. I am a quick learner and enthusiast techy.
-
-<hr>
-
-# My Skills
-
+# **Coder!** :man_student:
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=hap2y1122&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+# Skills
 ## Languages
-
 <p align="middle">
     <img src="./Pics/python.png" width="50" height="50"> 
     <img src="./Pics/java.png" width="50" height="50"> 
     <img src="./Pics/c.png" width="50" height="50"> 
 </p>
 
-## WebDev Techs
-
+## Web Development Technology
 <p align="middle">
     <img src="./Pics/html5.png" width="50" height="50"> 
     <img src="./Pics/css3.png" width="50" height="50"> 
@@ -29,21 +22,19 @@ Enhancing my skills as a Full Stack Web and App Developer. I am a quick learner 
     <img src="./Pics/mongoDB.webp" width="50" height="50">  
 </p>
 
-
-## AppDev Techs
+## Android Development Technology
 <p align="middle">
     <img src="./Pics/xml.png" width="50" height="50">
     <img src="./Pics/Xmljava.png" width="50" height="50">`
 </p>
+<hr>
+
+# GitHub Stats
+![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=hap2y1122&show_icons=true&theme=tokyonight)
 
 <hr>
 
-# My GitHub Stats
-[![Swaraj's github stats](https://github-readme-stats.vercel.app/api?username=hap2y1122)](https://github.com/hap2y1122/github-readme-stats)
-
-<hr>
-
-# Let's get connected
+# Connect With Me
 <p align="middle">
     <a href="https://www.linkedin.com/in/swaraj--kumar/"> <img src="./Pics/linkedin.png" width="40" height="40"></a>
     <a href="mailto:b190040@nitsikkim.ac.in"> <img src="./Pics/mail.png" width="40" height="40"></a>
@@ -51,3 +42,4 @@ Enhancing my skills as a Full Stack Web and App Developer. I am a quick learner 
     <a href="https://www.instagram.com/swaraj1729/"> <img src="./Pics/instagram.png" width="40" height="40"></a>
     <a href="https://www.facebook.com/swaraj4715/"> <img src="./Pics/facebook.png" width="40" height="40"></a>
 </p>
+<hr>
