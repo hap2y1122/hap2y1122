@@ -1,5 +1,11 @@
 # **Coder!** :man_student:
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=hap2y1122&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+
+# ![Visitor Tag](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=hap2y1122&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)    
+
+## ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<hr>
+
 # Skills
 ## Languages
 <p align="middle">
